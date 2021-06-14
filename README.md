@@ -6,6 +6,9 @@
 ```shell 
 python main.py
 ```
-
+### 安裝套件
+```shell 
+pip install -r requirements.txt
+```
 ### Report Link
 [DSAI Report](https://docs.google.com/presentation/d/14YYpetLINxnW8l69rSQZwKZjaRxHcO3eFQgy-UwjU5Q/edit?usp=sharing)
